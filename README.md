@@ -12,7 +12,7 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 ### Result ###
 
 * Author name : {Klimova Daria}
-* Codeship : {https://app.codeship.com/projects/10ddee30-ba0b-0137-10b7-5285da35f3f1/status?branch=master}
+* Codeship : {[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/10ddee30-ba0b-0137-10b7-5285da35f3f1/status?branch=master)](https://app.codeship.com/projects/364758)}
 
 
 ### How to start?  ###
